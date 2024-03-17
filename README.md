@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Machine Learning<br>🎯 Goals: Data Scientist<br>🎲 Fun fact: Loves Caffeine</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Generative AI<br>🎯 Goals: Data Scientist<br>🎲 Fun fact: Loves Caffeine</p>
 
 ###
 
