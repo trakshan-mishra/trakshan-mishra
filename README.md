@@ -7,11 +7,17 @@ Engineering student building applied ML / LLM tooling and full-stack products.
 **[DiffContext](https://github.com/trakshan-mishra/Diffcontext)**
 Static-analysis context compiler for LLMs. Parses Python ASTs and builds dependency graphs to run blast-radius and impact-scoring analysis on code changes, then compiles targeted, LLM-ready context from diffs in large repositories — instead of dumping whole files into a prompt.
 
-**[fintechAI2](https://github.com/trakshan-mishra/fintechAI2)**
-Full-stack personal finance app with an AI Financial Q&A assistant. Users ask natural-language questions on SIPs, tax saving, investments, insurance, retirement, and debt, and get answers grounded in their own financial data. Built with a JS/Python stack, deployed on Render and Netlify.
+**[Trade Tech Pro (fintechAI2)](https://github.com/trakshan-mishra/fintechAI2)**
+A comprehensive trading dashboard equipped with an AI-powered market analysis engine. Delivers real-time insights, predictive market trends, and data-driven intelligence to help users make informed trading decisions.
 
-**[movie](https://github.com/trakshan-mishra/movie)**
-Cross-platform movie streaming and watchlist tracker — one TypeScript/Vite codebase shipping to web, Android (Capacitor), and desktop (Electron), backed by Firebase.
+**[BrowserOS](https://github.com/trakshan-mishra/browseros)** *(In Development)*
+A next-generation, browser-based AI operating system. Designed to run entirely within the web browser, providing an integrated, AI-first workspace and application ecosystem without native installations.
+
+**[TasteCircle](https://github.com/trakshan-mishra/tastecircle)**
+A social dining platform that blends food discovery with networking — like Bumble or Tinder, but for food. Users can book restaurant reservations and choose to dine with friends or connect with new, unknown strangers over shared culinary interests.
+
+**[MovieMX](https://github.com/trakshan-mishra/movie)**
+A cross-platform movie streaming platform and watchlist tracker. Built with a single TypeScript/Vite codebase shipping seamlessly to the web, Android (via Capacitor), and desktop (via Electron), backed by Firebase.
 
 ## Stack
 
