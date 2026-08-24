@@ -13,9 +13,6 @@ A comprehensive trading dashboard equipped with an AI-powered market analysis en
 **[BrowserOS](https://github.com/trakshan-mishra/browseros)** *(In Development)*
 A next-generation, browser-based AI operating system. Designed to run entirely within the web browser, providing an integrated, AI-first workspace and application ecosystem without native installations.
 
-**[TasteCircle](https://github.com/trakshan-mishra/tastecircle)**
-A social dining platform that blends food discovery with networking — like Bumble or Tinder, but for food. Users can book restaurant reservations and choose to dine with friends or connect with new, unknown strangers over shared culinary interests.
-
 **[MovieMX](https://github.com/trakshan-mishra/movie)**
 A cross-platform movie streaming platform and watchlist tracker. Built with a single TypeScript/Vite codebase shipping seamlessly to the web, Android (via Capacitor), and desktop (via Electron), backed by Firebase.
 
