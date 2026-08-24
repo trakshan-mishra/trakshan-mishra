@@ -1,6 +1,6 @@
 # Trakshan Mishra
 
-Engineering student building applied ML / LLM tooling and full-stack products.
+Engineering Graduate building applied ML / LLM tooling and full-stack products.
 
 ## Featured work
 
