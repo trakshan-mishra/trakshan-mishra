@@ -14,6 +14,7 @@ GenAI engineer in Noida, India. I build retrieval tooling for code LLMs, and I f
 ## In review
 
 - **comet-ml/opik** [#8064](https://github.com/comet-ml/opik/pull/8064): persist `ScoreResult.metadata` with feedback scores across the Python SDK, Java backend (ClickHouse migration) and TypeScript SDK. Being narrowed after maintainer review.
+- **kubeflow/mcp-server** [#292](https://github.com/kubeflow/mcp-server/pull/292): upgrade to FastMCP 4 and MCP SDK v2 for the 2026-07-28 MCP spec, following the plan agreed with maintainers in [#225](https://github.com/kubeflow/mcp-server/issues/225). SSE is deprecated for one release instead of removed.
 - **bitcoindevkit/bdk_wallet** [#565](https://github.com/bitcoindevkit/bdk_wallet/pull/565): `finalize_psbt` panicked on overflow when an unconfirmed input had an unused `older(n)` branch. Unreachable relative locktimes are now treated as unsatisfied.
 - **apache/superset** [#44773](https://github.com/apache/superset/pull/44773): legacy charts with an adhoc `granularity_sqla` crashed with `unhashable type: 'dict'`. Matches the column by its SQL expression instead.
 - **enactic/openarm_dataset** [#75](https://github.com/enactic/openarm_dataset/pull/75): reject non-finite and zero-norm pose quaternions in the dataset validator.
