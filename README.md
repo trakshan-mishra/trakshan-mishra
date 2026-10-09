@@ -27,18 +27,13 @@ GenAI engineer in Noida, India. I contribute to Kubeflow, build retrieval toolin
 - **bitcoindevkit/bdk_wallet** [#565](https://github.com/bitcoindevkit/bdk_wallet/pull/565): `finalize_psbt` panicked on overflow when an unconfirmed input had an unused `older(n)` branch. Unreachable relative locktimes are now treated as unsatisfied.
 - **BerriAI/litellm** [#38212](https://github.com/BerriAI/litellm/pull/38212): MiniMax responses returned empty `content` when the whole answer sat inside `<think>`.
 
-## Reviews
+## PostgreSQL patch reviews
 
-**PostgreSQL**: registered CommitFest reviewer (`trakshanm`). Reviews are posted on pgsql-hackers and pgsql-bugs.
+Registered CommitFest reviewer (`trakshanm`). Reviews are posted on pgsql-hackers and pgsql-bugs.
 
 - [#6825](https://commitfest.postgresql.org/patch/6825/) Segfault from re-entrancy in `ri_triggers.c`. The author posted v4 after my review and it moved to Ready for Committer; I have since tested v6.
 - [#7345](https://commitfest.postgresql.org/patch/7345/) Clear `FatalError` earlier during crash restart. Committed.
 - [#7296](https://commitfest.postgresql.org/patch/7296/) Assertion failure in `tuplesort_begin_heap()` from a parallel plan with a sort. Reproduced on master and 17–19; v3 fixes all four. Needs review.
-
-**Bitcoin Core**: tested ACKs, built from source and run against the functional tests:
-
-- [#36467](https://github.com/bitcoin/bitcoin/pull/36467) socket timeout in `interface_http.py`
-- [#36470](https://github.com/bitcoin/bitcoin/pull/36470) make `p2p_eviction` actually exercise block-time protection
 
 ## Projects
 
